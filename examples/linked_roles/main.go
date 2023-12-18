@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/bg5t/mjgo"
+	"github.com/bg5t/mydiscordgo"
 	"github.com/joho/godotenv"
 	"golang.org/x/oauth2"
 )

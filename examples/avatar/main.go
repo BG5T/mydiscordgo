@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/bg5t/mjgo"
+	"github.com/bg5t/mydiscordgo"
 )
 
 // Variables used for command line parameters

@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bg5t/mjgo"
+	"github.com/bg5t/mydiscordgo"
 )
 
 // Bot parameters

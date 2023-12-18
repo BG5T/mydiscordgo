@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/bg5t/mjgo"
+	"github.com/bg5t/mydiscordgo"
 )
 
 func ExampleApplication() {

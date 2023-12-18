@@ -1,4 +1,4 @@
-module github.com/bg5t/mjgo
+module github.com/bg5t/mydiscordgo
 
 go 1.13
 
